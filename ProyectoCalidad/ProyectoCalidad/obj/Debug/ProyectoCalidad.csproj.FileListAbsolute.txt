@@ -1,0 +1,7 @@
+C:\Users\rulatem\source\repos\ProyectoCalidad\ProyectoCalidad\bin\Debug\ProyectoCalidad.exe.config
+C:\Users\rulatem\source\repos\ProyectoCalidad\ProyectoCalidad\bin\Debug\ProyectoCalidad.exe
+C:\Users\rulatem\source\repos\ProyectoCalidad\ProyectoCalidad\bin\Debug\ProyectoCalidad.pdb
+C:\Users\rulatem\source\repos\ProyectoCalidad\ProyectoCalidad\obj\Debug\ProyectoCalidad.exe
+C:\Users\rulatem\source\repos\ProyectoCalidad\ProyectoCalidad\obj\Debug\ProyectoCalidad.pdb
+C:\Users\rulatem\source\repos\ProyectoCalidad\ProyectoCalidad\obj\Debug\ProyectoCalidad.csprojAssemblyReference.cache
+C:\Users\rulatem\source\repos\ProyectoCalidad\ProyectoCalidad\obj\Debug\ProyectoCalidad.csproj.CoreCompileInputs.cache

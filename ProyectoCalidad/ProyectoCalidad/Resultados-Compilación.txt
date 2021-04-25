@@ -1,0 +1,4 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: proyecto: clsCalidadTest, configuración: Debug Any CPU ------
+1>  clsCalidadTest -> C:\Users\rulatem\source\repos\ProyectoCalidad\clsCalidadTest\bin\Debug\clsCalidadTest.dll
+========== Compilar: 1 correctos, 0 incorrectos, 1 actualizados, 0 omitidos ==========

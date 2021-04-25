@@ -1,0 +1,57 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5": {},
+    ".NETFramework,Version=v4.5/win": {},
+    ".NETFramework,Version=v4.5/win-x64": {},
+    ".NETFramework,Version=v4.5/win-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5": []
+  },
+  "packageFolders": {
+    "C:\\Users\\rulatem\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rulatem\\source\\repos\\ProyectoCalidad\\ProyectoCalidad\\ProyectoCalidad.csproj",
+      "projectName": "ProyectoCalidad",
+      "projectPath": "C:\\Users\\rulatem\\source\\repos\\ProyectoCalidad\\ProyectoCalidad\\ProyectoCalidad.csproj",
+      "packagesPath": "C:\\Users\\rulatem\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rulatem\\source\\repos\\ProyectoCalidad\\ProyectoCalidad\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\rulatem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net45"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+      },
+      "frameworks": {
+        "net45": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net45": {}
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
